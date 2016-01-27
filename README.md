@@ -3,6 +3,8 @@ This Pack Has Been Made For BarbaricBuffalo, _PYSCHOBOI_, and ElitexSolder246
 
 All of these mods have not been made by any of the people listed above but have been devolped by the author of the mods. 
 
+This Is Version 0.0.1, If you are looking for a diffrent one please click the branches drop down and select the version you want.
+
 #Version Change Log
 
 <b>Added:</b>
